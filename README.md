@@ -68,8 +68,12 @@ delivery-analysis/
 │
 ├── data/
 ├── notebooks/
+│   └── delivery_analysis.ipynb
 ├── sql/
+│   └── analysis.sql
 ├── visualization/
+│   └── occupation_chart.png
+├── venv/
 ├── README.md
 └── requirements.txt
 ```
